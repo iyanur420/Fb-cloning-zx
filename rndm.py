@@ -1,4 +1,4 @@
-# Author: TEAM-STLP
+# Author: TEAM-ZX
 # Github: github.com/STLP-TEAM
 # Facebook: Spamming & Termux Learning Point
 
